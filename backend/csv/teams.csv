@@ -1,0 +1,60 @@
+team_id,name,country,league,venue,city,top_players,image
+529,Barcelona,Spain,La Liga,Spotify Camp Nou,Barcelona,"Memphis Depay, Pierre-Emerick Emiliano Franço Aubameyang, Luuk de Jong",https://media.api-sports.io/football/teams/529.png
+530,Atletico Madrid,Spain,La Liga,Estádio Cívitas Metropolitano,Madrid,"Ángel Martín Correa Martínez, Luis Alberto Suárez Díaz, João Félix Sequeira",https://media.api-sports.io/football/teams/530.png
+531,Athletic Club,Spain,La Liga,San Mamés Barria,Bilbao,"Iñaki Arthuer Dannis Williams, Raúl García Escudero, Oihan Sancet Tirapu",https://media-3.api-sports.io/football/teams/531.png
+532,Valencia,Spain,La Liga,Estadio de Mestalla,Valencia,"Carlos Soler Barragán, Gonçalo Manuel Ganchinho Guedes, Carlos Soler Barragán",https://media.api-sports.io/football/teams/532.png
+533,Villarreal,Spain,La Liga,Estadio de la Cerámica,Villarreal,"Arnaut Danjuma Adam Groeneveld, Arnaut Danjuma Adam Groeneveld, Gerard Moreno Balagueró",https://media-3.api-sports.io/football/teams/533.png
+536,Sevilla,Spain,La Liga,Estadio Ramón Sánchez Pizjuán,Sevilla,"Rafael Mir Vicente, Rafael Mir Vicente, Lucas Ariel Ocampos",https://media.api-sports.io/football/teams/536.png
+538,Celta Vigo,Spain,La Liga,Abanca-Balaídos,Vigo,"Iago Aspas Juncal, Santiago Mina Lorenzo, Brais Méndez Portela",https://media-3.api-sports.io/football/teams/538.png
+539,Levante,Spain,La Liga,Estadio Ciudad de Valencia,Valencia,"José Luis Morales Nogales, Jorge de Frutos Sebastián, Daniel Gómez Alcón",https://media-3.api-sports.io/football/teams/539.png
+540,Espanyol,Spain,La Liga,RCDE Stadium,Cornella de Llobregat,"Javier Puado Díaz, Sergi Darder Moll, Aleix Vidal Parreu",https://media-3.api-sports.io/football/teams/540.png
+541,Real Madrid,Spain,La Liga,Estadio Santiago Bernabéu,Madrid,"Karim Mostafa Benzema, Karim Mostafa Benzema, Vinícius José Paixão de Oliveira Júnior",https://media.api-sports.io/football/teams/541.png
+542,Alaves,Spain,La Liga,Estadio de Mendizorroza,Vitoria-Gasteiz,"José Luis Sanmartín Mato, Víctor Laguardia Cisneros, Mamadou Loum N'Diaye",https://media.api-sports.io/football/teams/542.png
+543,Real Betis,Spain,La Liga,Estadio Benito Villamarín,Sevilla,"Alexandre Moreno Lopera, Cristian Tello Herrera, Cristian Tello Herrera",https://media.api-sports.io/football/teams/543.png
+546,Getafe,Spain,La Liga,Coliseum Alfonso Pérez,Getafe,"Enes Ünal, Borja Mayoral Moya, Sandro Ramírez Castillo",https://media.api-sports.io/football/teams/546.png
+548,Real Sociedad,Spain,La Liga,Reale Arena,Donostia-San Sebastián,"Mikel Oyarzabal Ugarte, Alexander Sørloth, Aritz Elustondo Irribaria",https://media.api-sports.io/football/teams/548.png
+715,Granada CF,Spain,La Liga,Estadio Nuevo Los Cármenes,Granada,"Jorge Molina Vidal, José Antonio Rodríguez Díaz, Luis Milla Manzanares",https://media-3.api-sports.io/football/teams/715.png
+724,Cadiz,Spain,La Liga,Estadio Nuevo Mirandilla,Cádiz,"Lucas Pérez Martínez, Salvador Sánchez Ponce, Oussama Idrissi",https://media-3.api-sports.io/football/teams/724.png
+727,Osasuna,Spain,La Liga,Estadio El Sadar,Iruñea,"Ante Budimir, Luis Ezequiel Ávila, Enrique García Martínez",https://media-3.api-sports.io/football/teams/727.png
+728,Rayo Vallecano,Spain,La Liga,Estadio de Vallecas,Madrid,"Álvaro García Rivera, Randy Nteka, Óscar Guido Trejo",https://media.api-sports.io/football/teams/728.png
+797,Elche,Spain,La Liga,Estadio Manuel Martínez Valero,Elche,"Pere Milla Peña, Lucas Ariel Boyé, Fidel Chaves de la Torre",https://media-3.api-sports.io/football/teams/797.png
+798,Mallorca,Spain,La Liga,Visit Mallorca Estadi,Palma de Mallorca,"Vedat Muriqi, Ángel Luis Rodríguez Díaz, Daniel José Rodríguez Vázquez",https://media-3.api-sports.io/football/teams/798.png
+157,Bayern Munich,Germany,Bundesliga,Allianz Arena,München,"Robert Lewandowski, Serge David Gnabry, Thomas Müller",https://media.api-sports.io/football/teams/157.png
+159,Hertha Berlin,Germany,Bundesliga,Olympiastadion Berlin,Berlin,"Stevan Jovetić, Ishak Belfodil, Marco Richter",https://media-3.api-sports.io/football/teams/159.png
+160,SC Freiburg,Germany,Bundesliga,Europa-Park Stadion,Freiburg im Breisgau,"Vincenzo Grifo, Lucas Höler, Woo-Yeong Jeong",https://media.api-sports.io/football/teams/160.png
+161,VfL Wolfsburg,Germany,Bundesliga,VOLKSWAGEN ARENA,Wolfsburg,"Lukas Okechukwu Nmecha, Maximilian Bennet Kruse, Wout Weghorst",https://media-3.api-sports.io/football/teams/161.png
+163,Borussia Monchengladbach,Germany,Bundesliga,Stadion im BORUSSIA-PARK,Mönchengladbach,"Jonas Hofmann, Jonas Hofmann, Alassane Alexandre Pléa",https://media.api-sports.io/football/teams/163.png
+164,FSV Mainz 05,Germany,Bundesliga,MEWA ARENA,Mainz,"Jonathan Michael Burkardt, Marcus Højriis Ingvartsen, Karim Onisiwo",https://media.api-sports.io/football/teams/164.png
+165,Borussia Dortmund,Germany,Bundesliga,SIGNAL IDUNA PARK,Dortmund,"Erling Braut Haaland, Marco Reus, Julian Brandt",https://media-3.api-sports.io/football/teams/165.png
+167,1899 Hoffenheim,Germany,Bundesliga,PreZero Arena,Sinsheim,"Georginio Rutter, Christoph Baumgartner, Ihlas Bebou",https://media.api-sports.io/football/teams/167.png
+168,Bayer Leverkusen,Germany,Bundesliga,BayArena,Leverkusen,"Patrik Schick, Moussa Diaby, Florian Richard Wirtz",https://media.api-sports.io/football/teams/168.png
+169,Eintracht Frankfurt,Germany,Bundesliga,Deutsche Bank Park,Frankfurt am Main,"Rafael Santos Borré Maury, Jesper Grænge Lindstrøm, Obite Evan Ndicka",https://media-3.api-sports.io/football/teams/169.png
+170,FC Augsburg,Germany,Bundesliga,WWK Arena,Augsburg,"Michael Gregoritsch, André Hahn, Florian Niederlechner",https://media-3.api-sports.io/football/teams/170.png
+172,VfB Stuttgart,Germany,Bundesliga,Mercedes-Benz-Arena,Stuttgart,"Saša Kalajdžić, Konstantinos Mavropanos, Wataru Endo",https://media-3.api-sports.io/football/teams/172.png
+173,RB Leipzig,Germany,Bundesliga,Red Bull Arena,Leipzig,"Christopher Alan Nkunku, André Miguel Valente da Silva, Dominik Szoboszlai",https://media-3.api-sports.io/football/teams/173.png
+175,Hamburger SV,Germany,Bundesliga,Volksparkstadion,Hamburg,,https://media.api-sports.io/football/teams/175.png
+176,VfL BOCHUM,Germany,Bundesliga,Vonovia Ruhrstadion,Bochum,"Sebastian Polter, Gerrit Stephan Barba Holtmann, Miloš Pantović",https://media-3.api-sports.io/football/teams/176.png
+178,SpVgg Greuther Furth,Germany,Bundesliga,Sportpark Ronhof Thomas Sommer,Fürth,"Jamie Leweling, Håvard Kallevik Nielsen, Jessic Gaïtan Ngankam",https://media-3.api-sports.io/football/teams/178.png
+182,Union Berlin,Germany,Bundesliga,Stadion An der Alten Försterei,Berlin,"Taiwo Micheal Awoniyi, Grischa Prömel, Sheraldo Becker",https://media.api-sports.io/football/teams/182.png
+188,Arminia Bielefeld,Germany,Bundesliga,SchücoArena,Bielefeld,"Masaya Okugawa, Patrick Wimmer, Janni-Luca Serra",https://media.api-sports.io/football/teams/188.png
+192,FC Koln,Germany,Bundesliga,RheinEnergieStadion,Köln,"Anthony Mbu Agogo Modeste, Mark-Alexander Uth, Ellyes Joris Skhiri",https://media-3.api-sports.io/football/teams/192.png
+33,Manchester United,England,Premier League,Old Trafford,Manchester,"Cristiano Ronaldo dos Santos Aveiro, Bruno Miguel Borges Fernandes, Mason Will John Greenwood",https://media-3.api-sports.io/football/teams/33.png
+34,Newcastle,England,Premier League,St. James' Park,Newcastle upon Tyne,"Callum Eddie Graham Wilson, Bruno Guimarães Rodriguez Moura, Allan Irénée Saint-Maximin",https://media.api-sports.io/football/teams/34.png
+38,Watford,England,Premier League,Vicarage Road,Watford,"Emmanuel Bonaventure Dennis, Juan Camilo Hernández Suárez, Joshua Christian Kojo King",https://media-3.api-sports.io/football/teams/38.png
+39,Wolves,England,Premier League,Molineux Stadium,"Wolverhampton, West Midlands","Raúl Alonso Jiménez Rodríguez, Hee-Chan Hwang, Rúben Diogo da Silva Neves",https://media-3.api-sports.io/football/teams/39.png
+40,Liverpool,England,Premier League,Anfield,Liverpool,"Mohamed Salah Hamed Mahrous Ghaly, Sadio Mané, Diogo José Teixeira da Silva",https://media-3.api-sports.io/football/teams/40.png
+41,Southampton,England,Premier League,St. Mary's Stadium,"Southampton, Hampshire","James Michael Edward Ward-Prowse, Ché Zach Everton Fred Adams, Armando Broja",https://media.api-sports.io/football/teams/41.png
+42,Arsenal,England,Premier League,Emirates Stadium,London,"Bukayo Ayoyinka Saka, Emile Smith Rowe, Martin Ødegaard",https://media-3.api-sports.io/football/teams/42.png
+44,Burnley,England,Premier League,Turf Moor,Burnley,"Gnaly Albert Maxwel Cornet, Ben Mee, Nathan Michael Collins",https://media.api-sports.io/football/teams/44.png
+45,Everton,England,Premier League,Goodison Park,Liverpool,"Richarlison de Andrade, Dominic Nathaniel Calvert-Lewin, Demarai Ramelle Gray",https://media.api-sports.io/football/teams/45.png
+46,Leicester,England,Premier League,King Power Stadium,"Leicester, Leicestershire","Jamie Richard Vardy, James Daniel Maddison, Youri Marion Tielemans",https://media.api-sports.io/football/teams/46.png
+47,Tottenham,England,Premier League,Tottenham Hotspur Stadium,London,"Heung-Min Son, Harry Edward Kane, Dejan Kulusevski",https://media-3.api-sports.io/football/teams/47.png
+48,West Ham,England,Premier League,London Stadium,London,"Jarrod Bowen, Michail Gregory Antonio, Mohamed Saïd Benrahma",https://media.api-sports.io/football/teams/48.png
+49,Chelsea,England,Premier League,Stamford Bridge,London,"Mason Tony Mount, Kai Lukas Havertz, Romelu Menama Lukaku Bolingoli",https://media.api-sports.io/football/teams/49.png
+50,Manchester City,England,Premier League,Etihad Stadium,Manchester,"Kevin De Bruyne, Raheem Shaquille Sterling, Riyad Karim Mahrez",https://media.api-sports.io/football/teams/50.png
+51,Brighton,England,Premier League,The American Express Community Stadium,"Falmer, East Sussex","Leandro Trossard, Daniel Nii Tackie Mensah Welbeck, Alexis Mac Allister",https://media-3.api-sports.io/football/teams/51.png
+52,Crystal Palace,England,Premier League,Selhurst Park,London,"Dazet Wilfried Armel Zaha, Odsonne Édouard, Christian Benteke Liolo",https://media.api-sports.io/football/teams/52.png
+55,Brentford,England,Premier League,Gtech Community Stadium,"Brentford, Middlesex","Ivan Toney, Yoane Wissa, Bryan Tetsadong Marceau Mbeumo",https://media-3.api-sports.io/football/teams/55.png
+63,Leeds,England,Premier League,Elland Road,"Leeds, West Yorkshire","Raphael Dias Belloli, Jack David Harrison, Rodrigo Moreno Machado",https://media-3.api-sports.io/football/teams/63.png
+66,Aston Villa,England,Premier League,Villa Park,Birmingham,"Oliver George Arthur Watkins, Daniel William John Ings, Jacob Matthew Ramsey",https://media.api-sports.io/football/teams/66.png
+71,Norwich,England,Premier League,Carrow Road,"Norwich, Norfolk","Teemu Eino Antero Pukki, Joshua Thomas Sargent, Mathias Antonsen Normann",https://media.api-sports.io/football/teams/71.png

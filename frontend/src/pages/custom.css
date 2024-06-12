@@ -1,0 +1,14 @@
+.card .img-fit {
+    /* aspect-ratio: 16/9; */
+    object-fit: cover;
+}
+
+.card {
+    height: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+

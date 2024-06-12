@@ -1,0 +1,5 @@
+
+> frontend@0.1.0 start
+> set PORT=3000 && react-scripts start
+
+sh: line 1: /home/rohitcbandi/cs331e/node_modules/.bin/react-scripts: Permission denied
